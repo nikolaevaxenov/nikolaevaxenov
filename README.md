@@ -1,5 +1,5 @@
 ## 👋 Автор: Николаев-Аксенов И. С., студент 2го курса университета РТУ "МИРЭА"
-<p align="center"><a href="https://vk.com/frischmann" target="_blank"><img src="https://img.shields.io/badge/VK-ВКонтакте-blue?style=for-the-badge&logo=VK"></a></p>
+<p align="center"><a href="https://vk.com/nikolaevaxenov" target="_blank"><img src="https://img.shields.io/badge/VK-ВКонтакте-blue?style=for-the-badge&logo=VK"></a></p>
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
