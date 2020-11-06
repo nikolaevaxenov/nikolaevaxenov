@@ -12,7 +12,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b><i>🌌 Информационно-справочный ресурс на тему «Солнечная система»<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  с применением технологий HTML5, CSS3, JavaScript</b></i><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Frischmann/SolarSystemCW">Ссылка на работу</a> <b>(🔧 Работа в процессе)</b>
+  с применением технологий HTML5, CSS3, JavaScript</b></i> <a href="https://github.com/Frischmann/SolarSystemCW">Ссылка на работу</a> <b>(🔧 Работа в процессе)</b>
   
