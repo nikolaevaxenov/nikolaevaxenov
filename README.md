@@ -1,5 +1,5 @@
 ## 👋 Автор: Николаев-Аксенов И. С., студент 2го курса университета РТУ "МИРЭА"
-<p align="center"><a href="https://vk.com/frischmann" target="_blank"><img src="https://img.shields.io/badge/VK-ВКонтакте-blue"></a></p>
+<p align="center"><a href="https://vk.com/frischmann" target="_blank"><img src="https://img.shields.io/badge/VK-ВКонтакте-blue?style=for-the-badge&logo=VK"></a></p>
 
 ## 🎓 Учебная работа за 1й семестр 2го курса:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
