@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   с применением технологий HTML5, CSS3, JavaScript</b></i></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Frischmann/SolarSystemCW">Ссылка на исходный код работы</a> <b>(🔧 WIP)</b><br>
+  <a href="https://github.com/Frischmann/SolarSystemCW">Ссылка на исходный код работы</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://frischmann.github.io/SolarSystemCW/">Ссылка на сайт курсовой работы</a> <b>(🔧 WIP)</b>
+  <a href="https://frischmann.github.io/SolarSystemCW/">Ссылка на сайт курсовой работы</a></b>
   
