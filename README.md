@@ -25,8 +25,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ***🌌 Информационно-справочный ресурс на тему «Солнечная система»  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  с применением технологий HTML5, CSS3, JavaScript***  
+  с применением технологий HTML5, CSS3, JavaScript (2й курс, 1й семестр)***  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [Ссылка на исходный код работы](https://github.com/Frischmann/SolarSystemCW)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [Ссылка на сайт курсовой работы](https://frischmann.github.io/SolarSystemCW/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+***🍕 Web-приложение «Пиццерия» (2й курс, 2й семестр)***  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [Ссылка на исходный код работы](https://github.com/nikolaevaxenov/PizzeriaJavaCW)  
