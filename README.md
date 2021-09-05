@@ -1,4 +1,4 @@
-## 👋 Автор: Николаев-Аксенов И. С., студент 2го курса университета РТУ "МИРЭА"
+## 👋 Автор: Николаев-Аксенов И. С., студент 3го курса университета РТУ "МИРЭА"
 <p align="center"><a href="https://vk.com/nikolaevaxenov" target="_blank"><img src="https://raw.githubusercontent.com/Frischmann/Frischmann/a33a9f86e7a153882d58ee705f89eb8ac5936794/source/vkbar.svg"></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Frischmann/Frischmann/a33a9f86e7a153882d58ee705f89eb8ac5936794/source/c%2B%2B.svg" alt="cplusplus" width="40" height="40"/>
@@ -11,6 +11,8 @@
 <img src="https://raw.githubusercontent.com/Frischmann/Frischmann/a33a9f86e7a153882d58ee705f89eb8ac5936794/source/git.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Frischmann/Frischmann/a33a9f86e7a153882d58ee705f89eb8ac5936794/source/linux.svg" alt="linux" width="40" height="40"/>
 </p>
+
+## 🎓 Учебная работа за 1й семестр 3го курса:
 
 ## 🎓 Учебная работа за 2й семестр 2го курса:
 * ***📔 Практические работы по предмету: "Программирование на языке Python"*** [Ссылка на работы](https://github.com/nikolaevaxenov/PythonCourse)  
