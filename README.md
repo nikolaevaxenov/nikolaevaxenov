@@ -40,3 +40,8 @@
 ***🍕 Web-приложение «Пиццерия» (2й курс, 2й семестр)***  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [Ссылка на исходный код работы](https://github.com/nikolaevaxenov/PizzeriaJavaCW)  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+***❌⭕ Серверная часть веб-приложения «Крестики-нолики» (3й курс, 1й семестр)***  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [Ссылка на исходный код работы](https://github.com/nikolaevaxenov/TicTacToeCW)  
