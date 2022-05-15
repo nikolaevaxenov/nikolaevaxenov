@@ -1,5 +1,4 @@
 ## 👋 Автор: Николаев-Аксенов И. С., студент 3го курса университета РТУ "МИРЭА"
-<p align="center"><a href="https://vk.com/nikolaevaxenov" target="_blank"><img src="https://raw.githubusercontent.com/Frischmann/Frischmann/a33a9f86e7a153882d58ee705f89eb8ac5936794/source/vkbar.svg"></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Frischmann/Frischmann/a33a9f86e7a153882d58ee705f89eb8ac5936794/source/c%2B%2B.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Frischmann/Frischmann/a33a9f86e7a153882d58ee705f89eb8ac5936794/source/python.svg" alt="python" width="40" height="40"/>
