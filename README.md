@@ -27,5 +27,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3й курс, 2й семестр)***  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [Ссылка на исходный код работы](https://github.com/nikolaevaxenov/PizzeriaReactCW)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [Ссылка на сайт курсовой работы](https://pizza.nikolaevaxenov.ru/)
