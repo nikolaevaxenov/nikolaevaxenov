@@ -1,12 +1,18 @@
-## 👋 Автор: Николаев-Аксенов И. С., студент 4го курса университета РТУ "МИРЭА"
+## 👋 Автор: Николаев-Аксенов И. С.
 
-## Персональные проекты:
+## 🧶 Персональные проекты:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ***🔗 Сервис сокращения ссылок***  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Ссылка на исходный код проекта](https://github.com/nikolaevaxenov/url-shortener)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Ссылка на сайт проекта](https://goshort.ga/)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ***💅 Сервис добавления подсветки синтаксиса***  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Ссылка на исходный код проекта](https://github.com/nikolaevaxenov/highlighter-app)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Ссылка на сайт проекта](https://highlighter.nikolaevaxenov.ru/)
 
 ## 📜 Курсовые работы:
@@ -27,3 +33,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3й курс, 2й семестр)***  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [Ссылка на исходный код работы](https://github.com/nikolaevaxenov/PizzeriaReactCW)  
+
+## 📔 Дипломные работы:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+***🔐 Дипломная работа по теме "Веб-приложение для управления паролями"***  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [Ссылка на исходный код работы](https://github.com/nikolaevaxenov/passwordmanager)  
